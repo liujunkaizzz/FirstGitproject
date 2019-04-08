@@ -1,6 +1,6 @@
-package ljk;
+﻿package ljk;
 /**
- * 输入数字.阶乘
+ * 输入数字.阶乘   （xiugai）
  */
 
 import java.util.Scanner;
